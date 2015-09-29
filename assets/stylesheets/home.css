@@ -1,0 +1,33 @@
+body #home {
+  background-image: url("../images/rider.jpg");
+  background-size: cover;
+  min-height: 100vh; }
+  body #home .head {
+    text-align: center;
+    color: #F3F327;
+    font-family: 'Creepster', cursive; }
+    body #home .head .navbar-nav > li > a {
+      color: #FFFFFF;
+      background-color: transparent; }
+      body #home .head .navbar-nav > li > a:hover {
+        background-color: transparent;
+        color: #F3F327; }
+    body #home .head .sign:hover {
+      color: #FFFFFF; }
+  body #home .first {
+    color: #C58E36;
+    position: relative;
+    padding-left: 180px;
+    padding-top: 50px;
+    font-size: 25px;
+    font-family: 'Pacifico', cursive; }
+  body #home .third {
+    color: #0EDFE2;
+    font-family: 'Covered By Your Grace', cursive;
+    margin-top: 30px; }
+body footer {
+  background-color: #68BF8F;
+  font-size: 20px;
+  text-align: center; }
+
+/*# sourceMappingURL=home.css.map */

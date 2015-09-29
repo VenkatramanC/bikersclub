@@ -1,0 +1,18 @@
+#gallery {
+  background-color: #82794C;
+  font-family: 'Rock Salt', cursive; }
+  #gallery .first {
+    color: #FFFFFF; }
+    #gallery .first .inn {
+      background-image: url("../images/ride.jpg");
+      background-size: cover;
+      height: 280px; }
+  #gallery .second {
+    color: #FFFFFF; }
+    #gallery .second .inn {
+      background-image: url("../images/slide.jpg");
+      background-size: cover;
+      height: 280px;
+      margin-top: 20px; }
+
+/*# sourceMappingURL=gallery.css.map */

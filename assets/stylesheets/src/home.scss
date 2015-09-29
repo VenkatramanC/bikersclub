@@ -1,0 +1,50 @@
+body {
+    #home {
+          background-image: url("../images/rider.jpg");
+          background-size: cover;
+          min-height: 100vh;
+        
+        .head {
+            text-align: center;
+            color: #F3F327;
+            font-family: 'Creepster', cursive; 
+         
+            .navbar-nav>li>a {
+                color: #FFFFFF;
+                background-color: transparent;
+                
+                &:hover {
+                    background-color: transparent;
+                    color: #F3F327;
+                }
+            }
+            .sign{
+              &:hover {
+                color:#FFFFFF;
+              }
+            }
+        }
+      
+        .first {
+            color: #C58E36;
+            position: relative;
+            padding-left: 180px;
+            padding-top: 50px;
+            font-size: 25px;
+            font-family: 'Pacifico', cursive;
+        }
+      
+      
+        .third {
+            color: #0EDFE2;
+            font-family: 'Covered By Your Grace', cursive;
+            margin-top: 30px;
+        }
+      }
+
+      footer{
+        background-color: #68BF8F;
+        font-size: 20px;
+        text-align: center;
+      }
+    }
